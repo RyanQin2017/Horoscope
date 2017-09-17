@@ -36,7 +36,7 @@ public class Horoscope {
 				System.out.println("You will trip on a rock today.");
 			}
 			else if  (answer.equalsIgnoreCase("Pisces")) {
-				System.out.println("You will trip on a rock today.");
+				System.out.println("You will trip on a log today.");
 			}
 			else if  (answer.equalsIgnoreCase("Aquarius")) {
 				System.out.println("You will trip on a rock today.");
